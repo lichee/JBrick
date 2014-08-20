@@ -1,0 +1,9 @@
+/bin
+/.gradle
+/.idea
+/.settings
+/bin
+/build
+/.project
+/.classpath
+/jbrick.iml
